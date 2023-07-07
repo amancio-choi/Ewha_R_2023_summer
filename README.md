@@ -14,4 +14,4 @@
 [튜토리얼] <https://amancio-choi.github.io/Ewha_R_2023_summer/R/R_tutorial_03.html><br>
 
 - R_tutorial_04: 텍스트 처리 및 프로젝트 실습<br>
-[튜토리얼] 
+[튜토리얼] <https://amancio-choi.github.io/Ewha_R_2023_summer/R/R_tutorial_04.html><br>
